@@ -4,3 +4,4 @@ Learning kotlin from [Learn Kotlin Programming – Full Course for Beginners : f
 - Project001: [HelloWorld](./HelloWorld)
 - Project002: [Variables](./Variables)
 - Project003: [ByteShortInt](./ByteShortInt)
+- Project004: [FloatAndDouble](./FloatAndDouble)
