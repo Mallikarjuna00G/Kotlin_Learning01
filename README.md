@@ -6,3 +6,4 @@ Learning kotlin from [Learn Kotlin Programming – Full Course for Beginners : f
 - Project003: [ByteShortInt](./ByteShortInt)
 - Project004: [FloatAndDouble](./FloatAndDouble)
 - Project005: [CharAndBoolean](./CharAndBoolean)
+- Project006: [Operators](./Operators)
