@@ -9,3 +9,4 @@ Learning kotlin from [Learn Kotlin Programming – Full Course for Beginners : f
 - Project006: [Operators](./Operators)
 - Project007: [ControlFlow](./ControlFlow)
 - Project008: [Null](./Null)
+- Project009: [Functions](./Functions)
