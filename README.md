@@ -11,3 +11,4 @@ Learning kotlin from [Learn Kotlin Programming – Full Course for Beginners : f
 - Project008: [Null](./Null)
 - Project009: [Functions](./Functions)
 - Project010: [Loops](./Loops)
+- Project011: [Arrays](./Arrays)
